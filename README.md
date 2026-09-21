@@ -15,7 +15,7 @@ and Python to help businesses make faster, smarter decisions.
 | [Retail Revenue Analysis](https://github.com/hariharan-reddy/retail-revenue-excel-analysis) | Leadership decision-making | Excel, PowerPoint  |
 | [Marketplace Revenue Leakage & Gap Analysis](https://github.com/hariharan-reddy/marketplace-revenue-leakage-sql) | Revenue recovery | SQL, PowerPoint |
 | [Zomato Order & Restaurant Analysis](https://github.com/hariharan-reddy/zomato-powerbi-sql-analysis/blob/main/README.md) | Data cleaning & dashboards | Power BI, SQL, PowerPoint |
-| Instagram Performance Analytics – Sugar Cosmetics | Social media analytics | Tableau, PowerPoint |
+| [Instagram Performance Analytics – Sugar Cosmetics](https://github.com/hariharan-reddy/sugar-cosmetics-instagram-tableau/blob/main/README.md) | Social media analytics | Tableau, PowerPoint |
 
 ### 🌐 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/hariharan-reddy-r-14aa3b1b5/) · [Email](mailto:hariharanreddy102001oct@gmail.com)
