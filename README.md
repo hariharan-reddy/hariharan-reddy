@@ -14,7 +14,7 @@ and Python to help businesses make faster, smarter decisions.
 | [Zepto Business Strategy Report](https://github.com/hariharan-reddy/zepto-business-strategy-report) | Market analysis, SWOT, PESTLE | PowerPoint |
 | [Retail Revenue Analysis](https://github.com/hariharan-reddy/retail-revenue-excel-analysis) | Leadership decision-making | Excel, PowerPoint  |
 | [Marketplace Revenue Leakage & Gap Analysis](https://github.com/hariharan-reddy/marketplace-revenue-leakage-sql) | Revenue recovery | SQL, PowerPoint |
-| Zomato Order & Restaurant Analysis | Data cleaning & dashboards | Power BI, SQL, PowerPoint |
+| [Zomato Order & Restaurant Analysis](https://github.com/hariharan-reddy/zomato-powerbi-sql-analysis/blob/main/README.md) | Data cleaning & dashboards | Power BI, SQL, PowerPoint |
 | Instagram Performance Analytics – Sugar Cosmetics | Social media analytics | Tableau, PowerPoint |
 
 ### 🌐 Let's Connect
