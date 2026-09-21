@@ -2,7 +2,7 @@
 
 ## Business Analyst | Data-Driven Decision Making
 
-I turn raw data into strategic insights — using SQL, Excel, Power BI, Tableau,
+I turn raw data into strategic insights and recommendations — using SQL, Excel, Power BI, Tableau,
 and Python to help businesses make faster, smarter decisions.
 
 ### 🔧 Tools I Work With
