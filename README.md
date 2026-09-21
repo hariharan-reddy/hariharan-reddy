@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Hariharan Reddy R 👋
 
-<!--
-**hariharan-reddy/hariharan-reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Business Analyst | Data-Driven Decision Making
 
-Here are some ideas to get you started:
+I turn raw data into strategic insights — using SQL, Excel, Power BI, Tableau,
+and Python to help businesses make faster, smarter decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools I Work With
+`SQL` · `Excel` · `Power BI` · `Tableau` · `Python` · `Business Strategy` · `Data Visualization`
+
+### 📊 Featured Projects
+| Project | Focus | Tools |
+|---|---|---|
+| [Zepto Business Strategy Report](https://github.com/hariharan-reddy/zepto-business-strategy-report) | Market analysis, SWOT, PESTLE | PowerPoint |
+| Retail Revenue Analysis | Leadership decision-making | Excel |
+| Marketplace Revenue Leakage & Gap Analysis | Revenue recovery | SQL |
+| Zomato Order & Restaurant Analysis | Data cleaning & dashboards | Power BI, SQL |
+| Instagram Performance Analytics – Sugar Cosmetics | Social media analytics | Tableau |
+
+### 🌐 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/hariharan-reddy-r-14aa3b1b5/) · [Email](mailto:hariharanreddy102001oct@gmail.com)
+
+---
+💡 *Every project above includes a full write-up: problem statement, approach, and business impact.*
