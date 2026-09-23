@@ -6,7 +6,10 @@ I turn raw data into strategic insights and recommendations — using SQL, Excel
 and Python to help businesses make faster, smarter decisions.
 
 ### 🔧 Tools I Work With
-`SQL` · `Excel` · `Power BI` · `Tableau` · `Python` · `Business Strategy` · `Data Visualization`
+`SQL` · `Excel` · `Power BI` · `Tableau` · `Python`
+
+### 🧠 Core Skills
+`Business Strategy` · `Data Visualization` · `Stakeholder Communication` · `Data Analysis & Interpretation` · `Problem Solving` · `Documentation & SOP Creation`
 
 ### 📊 Featured Projects
 | Project | Focus | Tools |
